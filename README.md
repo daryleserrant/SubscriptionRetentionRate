@@ -11,7 +11,7 @@ Therefore, you decide to pull data from all the users who subscribed in January 
 - How do user country and source affect subscription retention rate? How would you use these findings to improve the company revenue?
 
 ## Data
-One table:
+One table:  
 subscription - gives information about the user and his/her subscription status. Columns:
 - **user_id**: the id of the user. Unique by user.
 - **subscription_signup_date**: when the user signed up for the subscription.
